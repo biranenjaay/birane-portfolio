@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400&family=Oswald:wght@300&display=swap');
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
     padding: 0 2%;
     margin: 0;
