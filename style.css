@@ -168,6 +168,10 @@ footer .colonne p:hover {
     box-sizing: border-box;
 }
 
+body {
+    background: transparent;
+    text-align: center;
+}
 
 h1 {
     font-family: 'Playfair Display',
