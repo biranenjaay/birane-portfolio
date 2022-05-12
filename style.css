@@ -177,13 +177,13 @@ h1 {
     font-family: 'Playfair Display',
         serif;
     font-size: 59px;
-    color: white;
+    color: rgb(24, 22, 22);
     font-weight: 600;
     padding-bottom: 20px;
 }
 
 p {
-    color: #d2d2d2;
+    color: #181616;
 }
 
 p,
