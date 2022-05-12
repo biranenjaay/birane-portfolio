@@ -66,11 +66,11 @@ nav ul li:hover {
     font-size: 15px;
     font-weight: bold;
     padding-bottom: 5px;
-    border-bottom: 1px solid #ccc ;
+    border-bottom: 1px solid rgb(21, 20, 20) ;
     cursor: pointer;
 }
 .page-content header button:hover {
- color:#ccc;
+ color:rgb(22, 21, 21);
  border-bottom-color: black;   
 }
 .page-content .presentation-image {
